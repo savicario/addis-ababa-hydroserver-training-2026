@@ -6,4 +6,4 @@ This document contains the code and data repository for the workshop to be held 
 
 Each country folder contains the sample datasets used in the exercises, with data tailored to that specific country.
 
-Exercise 1: See the [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) for instructions and the code used in the exercise.
+- **Exercise 1:** See the [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) for instructions and the code used in the exercise.
