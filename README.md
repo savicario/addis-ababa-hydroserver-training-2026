@@ -2,7 +2,7 @@
 
 **Workshop Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems**
 
-This repository contains the code and data for the workshop to be held in Addis Ababa, Ethiopia, on September 14–17, 2026, for the hydrological services of Uganda, Rwanda, Ethiopia, and Kenya.
+This repository contains the code and data for the [HydroServer](https://hydroserver.org/) training to be held in Addis Ababa, Ethiopia, on September 14–17, 2026, as part of the workshop for the hydrological services of Uganda, Rwanda, Ethiopia, and Kenya.
 
 Each country folder contains subfolders for the exercises. Each exercise folder includes the code and sample data tailored to that specific country.
 
