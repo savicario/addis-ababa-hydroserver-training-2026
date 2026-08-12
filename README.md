@@ -15,5 +15,5 @@ Each country folder contains subfolders for the exercises. Each exercise folder 
 
   In this exercise, you will create your own workspace to manage your data, a monitoring site representing the physical location where measurements are collected, a datastream containing metadata about the instrument taking measurements at the monitoring site, and observations corresponding to the measurements in the Excel and CSV files you shared with us before the workshop.
 
-  The code is written in Python and uses the hydroserverpy Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+  The code is written in Python and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
