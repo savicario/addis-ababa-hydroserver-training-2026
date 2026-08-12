@@ -7,6 +7,7 @@ This repository contains the code and data for the [HydroServer](https://hydrose
 Each country folder contains subfolders for the exercises. Each exercise folder includes the code and sample data tailored to that specific country.
 
 **Session 4a - Introduction to HydroServer: Architecture, Data Models & Key Components** 
+
 **Tuesday, September 15, 2026
 09:00 – 10:40**
 
