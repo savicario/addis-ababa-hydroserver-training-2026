@@ -11,7 +11,9 @@ Each country folder contains subfolders for the exercises. Each exercise folder 
 **Tuesday, September 15, 2026
 09:00 – 10:40**
 
-- **Exercise 1: Loading Sensor Data for a Monitoring Station**: See the [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) for instructions. We will go through the presentation and complete the exercise together during the first session of the workshop. In this exercise, you will create your own workspace to manage your data, a monitoring site representing the physical location where measurements are collected, a datastream containing metadata about the instrument taking measurements at the monitoring site, and observations corresponding to the measurements in the Excel and CSV files you shared with us before the workshop. You will use sample data from monitoring stations in your country that you shared before the workshop. You can find brief definitions of each of these terms here: [HydroServer Key Concepts](https://hydroserver.org/introduction/key-concepts/).
+- **Exercise 1: Loading Sensor Data for a Monitoring Station**: See the [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) for instructions. We will go through the presentation and complete the exercise together during the first session of the workshop.
+
+In this exercise, you will create your own workspace to manage your data, a monitoring site representing the physical location where measurements are collected, a datastream containing metadata about the instrument taking measurements at the monitoring site, and observations corresponding to the measurements in the Excel and CSV files you shared with us before the workshop.
 
 The code is written in Python and uses the hydroserverpy Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
