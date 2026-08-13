@@ -26,8 +26,10 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 
   In this exercise, you will upload observations using the [**Streaming Data Loader**](https://hydroserver.org/user-guides/tutorials/hydroserver-101/part-3-sdl-setup.html). The Streaming Data Loader is a HydroServer tool that monitors a CSV file for new sensor observations and automatically uploads new data to a HydroServer datastream as the file is updated.
 
-  To load data using the Streaming Data Loader, you need to repeat some of the steps we completed in Exercise 1, particularly creating a new *datastream* to receive the data. We do not need to create a new monitoring site because the new station is located at the same physical site in Kanzenze. It is simply a newer station installed with the support of the Nile Basin Initiative (NBI). 
+ To load data using the Streaming Data Loader, you need to repeat some of the steps completed in Exercise 1, particularly creating a monitoring site and a new datastream to receive the data. In the case of Rwanda, we do not need to create a new monitoring site because the new station is located at the same physical site in Kanzenze. It is simply a newer station installed with the support of the Nile Basin Initiative (NBI).
 
-  This exercise is the same for all countries. We have created the same file for each country. You can access it by going to your country folder and opening Exercise 2. The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+For Kenya, Uganda, and Ethiopia, you will need to create a new monitoring site because, in Exercise 1, you used your own sample datasets from different monitoring locations.
+
+You can access the exercise by going to your country folder and opening Exercise 2. The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 
