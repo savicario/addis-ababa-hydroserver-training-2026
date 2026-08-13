@@ -24,7 +24,7 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 
   - **Exercise 2: Other Methods to Load Observations into HydroServer**: See the [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
 
-  In this exercise, you will upload observations using the [**Streaming Data Loader**](https://hydroserver.org/user-guides/tutorials/hydroserver-101/part-3-sdl-setup.html). TThe Streaming Data Loader is a HydroServer tool that monitors a CSV file for new sensor observations and automatically uploads new data to a HydroServer datastream as the file is updated.
+  In this exercise, you will upload observations using the [**Streaming Data Loader**](https://hydroserver.org/user-guides/tutorials/hydroserver-101/part-3-sdl-setup.html). The Streaming Data Loader is a HydroServer tool that monitors a CSV file for new sensor observations and automatically uploads new data to a HydroServer datastream as the file is updated.
 
   To load data using the Streaming Data Loader, you need to repeat some of the steps we completed in Exercise 1, particularly creating a new *datastream* to receive the data. We do not need to create a new monitoring site because the new station is located at the same physical site in Kanzenze. It is simply a newer station installed with the support of the Nile Basin Initiative (NBI). 
 
