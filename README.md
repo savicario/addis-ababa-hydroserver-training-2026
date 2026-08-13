@@ -11,9 +11,21 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 **Tuesday, September 15, 2026
 09:00 – 10:40**
 
-- **Exercise 1: Loading Sensor Data for a Monitoring Station**: See the [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) for instructions. We will go through the presentation and complete the exercise together during the first session of the workshop.
+- **Exercise 1: Loading Sensor Data for a Monitoring Station**: See the [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) for instructions. We will go through the presentation and complete the exercise together during the first session of the workshop. The presentation uses Rwanda as an example, where we upload stage data from the Kanzenze station covering the period from 1971 to 2015. The exercises for the other countries follow a similar structure.
 
   In this exercise, you will create your own *workspace* to manage your data, a *monitoring site* representing the physical location where measurements are collected, a *datastream* containing metadata about the instrument taking measurements at the monitoring site, and *observations* corresponding to the measurements in the Excel and CSV files you shared with us before the workshop. If you navigate to the `Exercise1/data/` folder, you will find the sample data you shared with us.
 
   The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+**Session 5a - Methods for Loading Observations into HydroServer** 
+
+**Tuesday, September 15, 2026
+09:00 – 10:40**
+
+  - **Exercise 2: Other Methods to Load Observations into HydroServer**: See the [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
+
+  In this exercise, you will upload observations using the [**Streaming Data Loader**](https://hydroserver.org/user-guides/tutorials/hydroserver-101/part-3-sdl-setup.html). The Streaming Data Loader is a HydroServer tool that monitors a CSV file for new sensor observations and automatically uploads new data to a HydroServer datastream as the file is updated. For loading the data using the Streaming Data Loader
+
+  The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
 
