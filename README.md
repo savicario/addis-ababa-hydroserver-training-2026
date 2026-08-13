@@ -22,7 +22,7 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 **Tuesday, September 15, 2026
 11:00 – 12:30**
 
-- **Exercise 2: Other Methods to Load Observations into HydroServer:** See the [Presentation](LINK) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
+- **Exercise 2: Other Methods to Load Observations into HydroServer:** See the [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
 
   In this exercise, you will upload observations using the [**Streaming Data Loader**](LINK). The Streaming Data Loader is a HydroServer tool that monitors a CSV file for new sensor observations and automatically uploads new data to a HydroServer datastream as the file is updated.
 
@@ -30,6 +30,6 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 
   For Kenya, Uganda, and Ethiopia, you will need to create a new monitoring site because, in Exercise 1, you used your own sample datasets from different monitoring locations.
 
-You can access the exercise by going to your country folder and opening Exercise 2. The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+  You can access the exercise by going to your country folder and opening Exercise 2. The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access the GitHub repository and run the exercise here: [Access Exercise 2](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 
