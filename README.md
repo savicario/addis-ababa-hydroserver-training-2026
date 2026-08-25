@@ -33,3 +33,10 @@ Each country folder in this repository contains subfolders for the exercises. Ea
   You can access the exercise by going to your country folder and opening Exercise 2. The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access the GitHub repository and run the exercise here: [Access Exercise 2](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 
+**Session 6a - Data visualization, Quality Analysis, and Accessing** 
+
+**Tuesday, September 15, 2026
+11:00 – 12:30**
+
+
+
