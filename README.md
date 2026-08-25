@@ -36,7 +36,7 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 **Session 6a - Data visualization, Quality Analysis, and Accessing** 
 
 **Tuesday, September 15, 2026
-11:00 – 12:30**
+13:45 – 15:15**
 
 
 
