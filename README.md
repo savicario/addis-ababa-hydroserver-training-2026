@@ -38,5 +38,7 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 **Tuesday, September 15, 2026
 13:45 – 15:15**
 
+- **Exercise 3: Data Quality Analysis in HydroServer:** See the [Presentation](https://www.canva.com/design/DAHR4xPcFfA/avxHbnSRp74WqGka2J0IlQ/edit) for instructions.
+
 
 
