@@ -99,3 +99,45 @@ You can access and run **Exercise 2** here:
 
 👉 [**Access Exercise 2**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
+# Session 7a - Querying Data and Automated Data Workflows in HydroServer  
+
+**Wednesday, September 16, 2026 | 15:35 – 17:30**
+
+In this session, you will learn how to retrieve the data you have uploaded to HydroServer and explore additional ways to automate data ingestion workflows. You will work through two practical exercises:
+
+- **Query data** stored in HydroServer using Python
+- Retrieve information about your **workspace, monitoring sites, datastreams, and observations**
+- Explore additional approaches for **automating data ingestion workflows**
+
+### What you will do
+
+During the first exercise, you will use the data that you uploaded to HydroServer in the previous sessions. Using simple Python code and the **hydroserverpy** package, you will learn how to retrieve information from HydroServer and access your observations programmatically.
+
+During the second exercise, we will explore additional approaches for **automating data ingestion workflows** and keeping observations in HydroServer up to date.
+
+### Exercise 3: Querying Data from HydroServer
+
+In this exercise, you will use the **hydroserverpy** Python package to query the data you uploaded to HydroServer during the previous exercises.
+
+You will see examples of how to retrieve:
+
+- Your **workspace**
+- Your **monitoring sites**
+- Your **datastreams**
+- Your **observations**
+
+This will show you how to access data stored in HydroServer programmatically and use it in your own Python scripts and data workflows.
+
+### Exercise 4: Automating Data Ingestion Workflows
+
+In this exercise, we will explore other ways to **automate data ingestion into HydroServer**.
+
+Building on the Streaming Data Loader introduced in Session 6a, we will look at additional approaches for connecting data sources to HydroServer and automatically keeping your observations up to date.
+
+### Access the exercises
+
+The exercises are provided as **Jupyter Notebooks** and use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
+
+You can access and run the exercises here:
+
+👉 [**Access Exercises 3 and 4**](LINK)
