@@ -128,6 +128,9 @@ You will see examples of how to retrieve:
 
 This will show you how to access data stored in HydroServer programmatically and use it in your own Python scripts and data workflows.
 
+### Access the exercises
+👉 [**Access Exercise 3**](LINK)
+
 ### Exercise 4: Automating Data Ingestion Workflows
 
 In this exercise, we will explore other ways to **automate data ingestion into HydroServer**.
@@ -135,9 +138,10 @@ In this exercise, we will explore other ways to **automate data ingestion into H
 Building on the Streaming Data Loader introduced in Session 6a, we will look at additional approaches for connecting data sources to HydroServer and automatically keeping your observations up to date.
 
 ### Access the exercises
+👉 [**Access Exercise 4**](LINK)
 
-The exercises are provided as **Jupyter Notebooks** and use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
 
-You can access and run the exercises here:
 
-👉 [**Access Exercises 3 and 4**](LINK)
+
+
+
