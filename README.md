@@ -77,8 +77,7 @@ You can find your country's sample data in the `Exercise2/data/` folder.
 During the exercise, you will:
 
 - Create a **monitoring site** and a new **datastream** to receive observations.
-- Configure the **Streaming Data Loader** to upload observations from a CSV file.
-- Learn how the Streaming Data Loader can be used to upload new observations when the CSV file is updated.
+- Configure the **Streaming Data Loader** to upload observations from a CSV file to upload new observations when the CSV file is updated.
 - **Visualize your observations** in HydroServer and explore summary statistics such as the mean, median, and standard deviation.
 - Use the **HydroServer Quality Control (QC) App** to review and edit your observations.
 
@@ -90,7 +89,7 @@ For **Kenya, Uganda, and Ethiopia**, you will create a new monitoring site becau
 
 We will go through this [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) together step by step.
 
-During the Quality Control part of the exercise, you will learn how to select and filter observations using criteria such as **thresholds, date ranges, and rate of change**. You will also explore different operations that can be applied to selected observations, including **deleting values, shifting datetimes, interpolating values, adding observations to fill gaps, and assigning data quality qualifiers**.
+During the Quality Control part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rate of change. You will also explore different operations that can be applied to selected observations, including deleting values, shifting datetimes, interpolating values, adding observations to fill gaps, and assigning data quality qualifiers.
 
 ### Access Exercise 2
 
