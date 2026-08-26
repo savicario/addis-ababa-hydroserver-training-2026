@@ -85,11 +85,11 @@ For **Rwanda**, you do not need to create a new monitoring site because the data
 
 For **Kenya, Uganda, and Ethiopia**, you will create a new monitoring site because the sample datasets used in Exercise 2 correspond to different monitoring locations from those used in Exercise 1.
 
+During the Quality Control part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rate of change. You will also explore different operations that can be applied to selected observations, including deleting values, shifting datetimes, interpolating values, adding observations to fill gaps, and assigning data quality qualifiers.
+
 ### Follow the presentation
 
 We will go through this [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) together step by step.
-
-During the Quality Control part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rate of change. You will also explore different operations that can be applied to selected observations, including deleting values, shifting datetimes, interpolating values, adding observations to fill gaps, and assigning data quality qualifiers.
 
 ### Access Exercise 2
 
@@ -136,6 +136,10 @@ This will show you how to access data stored in HydroServer programmatically and
 In this exercise, we will explore other ways to **automate data ingestion into HydroServer**.
 
 Building on the Streaming Data Loader introduced in Session 6a, we will look at additional approaches for connecting data sources to HydroServer and automatically keeping your observations up to date.
+
+### Follow the presentation
+
+We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step.
 
 ### Access the exercises
 👉 [**Access Exercise 4**](LINK)
