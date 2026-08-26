@@ -21,20 +21,44 @@ We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/
 **Tuesday, September 15, 2026
 11:00 – 12:30**
 
-In this session, you will learn how to get started with HydroServer through a practical exercise. You will work through the main steps for adding historical monitoring data to HydroServer: creating a workspace, adding a monitoring site, creating a datastream, and uploading historical observations.
+## Exercise 1: Getting Started with HydroServer
 
-For this exercise, you will use the sample data that you shared with us before the workshop. The presentation uses Rwanda as an example, where we will upload historical stage data from the Kanzenze station covering the period from 1971 to 2015. The exercises for the other countries follow the same general structure. You can find your country's sample data in the Exercise1/data/ folder.
+In this session, you will learn how to get started with HydroServer through a practical exercise. You will work through the main steps required to add historical monitoring data to HydroServer:
 
-As we work through the exercise, you will create:
+- Create a **workspace**
+- Add a **monitoring site**
+- Create a **datastream**
+- Upload **historical observations**
 
-A workspace where you can manage your data.
--A monitoring site representing the physical location where measurements are collected.
--A datastream containing metadata about the instrument and the measurements collected at the monitoring site.
--Observations corresponding to the historical measurements contained in the Excel or CSV files you provided.
+For this exercise, you will use the sample data that you shared with us before the workshop. The presentation uses **Rwanda** as an example, where we will upload historical stage data from the **Kanzenze station** covering the period from **1971 to 2015**. The exercises for the other countries follow the same general structure.
 
-We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step. For each step, we will demonstrate how the same task can be performed using both the HydroServer Data Management App in the HydroServer Playground and the hydroserverpy Python package, which allows you to interact with HydroServer programmatically.
+You can find your country's sample data in the `Exercise1/data/` folder.
 
-The Python exercise is provided as a Jupyter Notebook using the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+### What you will create
+
+During the exercise, you will create:
+
+- A **workspace** where you can manage your data.
+- A **monitoring site** representing the physical location where measurements are collected.
+- A **datastream** containing metadata about the instrument and the measurements collected at the monitoring site.
+- **Observations** corresponding to the historical measurements contained in the Excel or CSV files you provided.
+
+### Follow the presentation
+
+We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step.
+
+For each step, we will demonstrate how the same task can be performed using:
+
+- The **HydroServer Data Management App** in the HydroServer Playground.
+- The **hydroserverpy Python package**, which allows you to interact with HydroServer programmatically.
+
+### Access Exercise 1
+
+The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
+
+You can access and run **Exercise 1** here:
+
+👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 
 - **Exercise 2: Other Methods to Load Observations into HydroServer:** See the [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
