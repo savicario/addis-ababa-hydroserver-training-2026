@@ -11,7 +11,7 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 **Tuesday, September 15, 2026
 09:00 – 10:40**
 
-- We will go through this [Presentation]([https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit]) together. The presentation will provide an introduction to HydroServer, including what HydroServer is, its main components, the types of data and formats that can be managed through HydroServer, a brief overview of possible data ingestion options, and finally, the available deployment options. We will cover these topics in this order.
+We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit) together. The presentation will provide an introduction to HydroServer, including what HydroServer is, its main components, the types of data and formats that can be managed through HydroServer, a brief overview of possible data ingestion options, and finally, the available deployment options. We will cover these topics in this order.
 
 
 **Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations** 
@@ -23,7 +23,7 @@ In this session, you will learn how to get started with HydroServer through a pr
 
 We will demonstrate how to complete these tasks using the HydroServer Python package, which allows you to interact with HydroServer programmatically, as well as through the HydroServer Data Management App in the HydroServer Playground.
 
-We will go through this [Presentation][(https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit)] together step by step.
+We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step.
  
  The presentation uses Rwanda as an example, where we upload stage data from the Kanzenze station covering the period from 1971 to 2015. The exercises for the other countries follow a similar structure.
 
