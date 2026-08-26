@@ -39,14 +39,14 @@ During the exercise, you will create:
 - A **datastream** containing metadata about the instrument and the measurements collected at the monitoring site.
 - **Observations** corresponding to the historical measurements contained in the Excel or CSV files you provided.
 
-### Follow the presentation
-
-We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step.
-
 For each step, we will demonstrate how the same task can be performed using:
 
 - The **HydroServer Data Management App** in the HydroServer Playground.
 - The **hydroserverpy Python package**, which allows you to interact with HydroServer programmatically.
+
+### Follow the presentation
+
+We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step.
 
 ### Access Exercise 1
 
