@@ -6,12 +6,14 @@ This repository contains the materials for the [HydroServer](https://hydroserver
 
 Each country folder in this repository contains subfolders for the exercises. Each exercise folder includes the code and sample data needed to complete the exercise.
 
-**Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options ** 
+
+**Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options** 
 
 **Tuesday, September 15, 2026
 09:00 – 10:40**
 
 We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit) together. The presentation will provide an introduction to HydroServer, including what HydroServer is, its main components, the types of data and formats that can be managed through HydroServer, a brief overview of possible data ingestion options, and finally, the available deployment options. We will cover these topics in this order.
+
 
 
 **Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations** 
