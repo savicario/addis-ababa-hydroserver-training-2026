@@ -111,11 +111,8 @@ In this session, you will learn how to retrieve the data you have uploaded to Hy
 
 ### What you will do
 
-During the first exercise, you will use the data that you uploaded to HydroServer in the previous sessions. Using simple Python code and the **hydroserverpy** package, you will learn how to retrieve information from HydroServer and access your observations programmatically.
-
-During the second exercise, we will explore additional approaches for **automating data ingestion workflows** and keeping observations in HydroServer up to date.
-
 ### Exercise 3: Querying Data from HydroServer
+During the third exercise, you will use the data that you uploaded to HydroServer in the previous sessions. Using simple Python code and the **hydroserverpy** package, you will learn how to retrieve information from HydroServer and access your observations programmatically.
 
 In this exercise, you will use the **hydroserverpy** Python package to query the data you uploaded to HydroServer during the previous exercises.
 
@@ -128,18 +125,18 @@ You will see examples of how to retrieve:
 
 This will show you how to access data stored in HydroServer programmatically and use it in your own Python scripts and data workflows.
 
+### Follow the presentation
+
+We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step.
+
 ### Access the exercises
 👉 [**Access Exercise 3**](LINK)
 
 ### Exercise 4: Automating Data Ingestion Workflows
 
-In this exercise, we will explore other ways to **automate data ingestion into HydroServer**.
+During the fourth exercise, we will explore additional approaches for **automating data ingestion workflows** and keeping observations in HydroServer up to date.
 
 Building on the Streaming Data Loader introduced in Session 6a, we will look at additional approaches for connecting data sources to HydroServer and automatically keeping your observations up to date.
-
-### Follow the presentation
-
-We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step.
 
 ### Access the exercises
 👉 [**Access Exercise 4**](LINK)
