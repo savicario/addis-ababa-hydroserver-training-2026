@@ -57,23 +57,56 @@ You can access and run **Exercise 1** here:
 👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 
-## Session 6a - Working with HydroServer: Automated Data Ingestion, Visualization, and Quality Control  
+# Session 6a - Working with HydroServer: Automated Data Ingestion, Visualization, and Quality Control
 
-**Tuesday, September 15, 2026
-13:45 – 15:15**
+**Tuesday, September 15, 2026 | 13:45 – 15:15**
 
+In this session, you will learn how to work with data in HydroServer after completing the initial setup in Exercise 1. We will focus on three main tasks:
 
-- **Exercise 2: Other Methods to Load Observations into HydroServer:** See the [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
+- Automating data ingestion using the **Streaming Data Loader**
+- Exploring and **visualizing observations** in HydroServer
+- Performing **Quality Control (QC)** on your observations
 
-  In this exercise, you will upload observations using the [**Streaming Data Loader**](LINK). The Streaming Data Loader is a HydroServer tool that monitors a CSV file for new sensor observations and automatically uploads new data to a HydroServer datastream as the file is updated.
+We will go through this [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) together step by step.
 
-  To load data using the Streaming Data Loader, you need to repeat some of the steps completed in Exercise 1, particularly creating a monitoring site and a new datastream to receive the data. In the case of Rwanda, we do not need to create a new monitoring site because the new station is located at the same physical site in Kanzenze.
+### Exercise 2: Automated Data Ingestion with the Streaming Data Loader
 
-  For Kenya, Uganda, and Ethiopia, you will need to create a new monitoring site because, in Exercise 1, you used your own sample datasets from different monitoring locations.
+In this exercise, you will upload observations using the **Streaming Data Loader**. The Streaming Data Loader is a HydroServer tool that can be used to automatically upload observations from CSV files stored and updated on your computer.
 
-  You can access the exercise by going to your country folder and opening Exercise 2. The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access the GitHub repository and run the exercise here: [Access Exercise 2](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+We will show you how to configure the Streaming Data Loader so that new observations can be uploaded to HydroServer as the CSV file is updated.
 
+To use the Streaming Data Loader, you will repeat some of the steps from Exercise 1, particularly creating a **monitoring site** and a new **datastream** to receive the observations.
 
+For **Rwanda**, you do not need to create a new monitoring site because the data used in Exercise 2 comes from the same physical monitoring location in Kanzenze.
 
+For **Kenya, Uganda, and Ethiopia**, you will create a new monitoring site because the sample datasets used in Exercise 2 correspond to different monitoring locations from those used in Exercise 1.
+
+You can find Exercise 2 in your country's folder. The exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
+
+You can access and run **Exercise 2** here:
+
+👉 [**Access Exercise 2**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+### Data Visualization
+
+Once the observations have been uploaded, we will explore how to **visualize the data in HydroServer**. We will also review some of the summary statistics provided by HydroServer, including the **mean, median, and standard deviation**.
+
+### Quality Control
+
+Finally, we will work together with the **HydroServer Quality Control (QC) App** to explore different ways of reviewing and editing observations.
+
+You will learn how to filter and select observations using criteria such as:
+
+- Thresholds
+- Date ranges
+- Rate of change
+
+You will then learn how to perform different QC operations on the selected observations, including:
+
+- Deleting values
+- Shifting observation datetimes
+- Interpolating values
+- Adding observations to fill data gaps
+- Assigning data quality qualifiers to observations
 
 
