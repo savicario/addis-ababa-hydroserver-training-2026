@@ -7,9 +7,8 @@ This repository contains the materials for the [HydroServer](https://hydroserver
 Each country folder in this repository contains subfolders for the exercises. Each exercise folder includes the code and sample data needed to complete the exercise.
 
 
-# Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options 
-
-**Tuesday, September 15, 2026 | 09:00 – 10:40**
+# Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options
+<sub>**Tuesday, September 15, 2026 | 09:00 – 10:40**</sub>
 
 ---
 
