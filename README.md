@@ -21,17 +21,21 @@ We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/
 **Tuesday, September 15, 2026
 11:00 – 12:30**
 
-In this session, you will learn how to get started with HydroServer through a practical exercise. We will cover the key concepts that define HydroServer by creating a workspace, adding a monitoring site, creating a datastream to receive observations, and adding observations.
+In this session, you will learn how to get started with HydroServer through a practical exercise. You will work through the main steps for adding historical monitoring data to HydroServer: creating a workspace, adding a monitoring site, creating a datastream, and uploading historical observations.
 
-We will demonstrate how to complete these tasks using the HydroServer Python package, which allows you to interact with HydroServer programmatically, as well as through the HydroServer Data Management App in the HydroServer Playground.
+For this exercise, you will use the sample data that you shared with us before the workshop. The presentation uses Rwanda as an example, where we will upload historical stage data from the Kanzenze station covering the period from 1971 to 2015. The exercises for the other countries follow the same general structure. You can find your country's sample data in the Exercise1/data/ folder.
 
-We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step.
- 
- The presentation uses Rwanda as an example, where we upload stage data from the Kanzenze station covering the period from 1971 to 2015. The exercises for the other countries follow a similar structure.
+As we work through the exercise, you will create:
 
-  In this exercise, you will create your own *workspace* to manage your data, a *monitoring site* representing the physical location where measurements are collected, a *datastream* containing metadata about the instrument taking measurements at the monitoring site, and *observations* corresponding to the measurements in the Excel and CSV files you shared with us before the workshop. If you navigate to the `Exercise1/data/` folder, you will find the sample data you shared with us.
+A workspace where you can manage your data.
+-A monitoring site representing the physical location where measurements are collected.
+-A datastream containing metadata about the instrument and the measurements collected at the monitoring site.
+-Observations corresponding to the historical measurements contained in the Excel or CSV files you provided.
 
-  The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step. For each step, we will demonstrate how the same task can be performed using both the HydroServer Data Management App in the HydroServer Playground and the hydroserverpy Python package, which allows you to interact with HydroServer programmatically.
+
+The Python exercise is provided as a Jupyter Notebook using the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
 
 - **Exercise 2: Other Methods to Load Observations into HydroServer:** See the [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
 
