@@ -15,7 +15,7 @@ Each country folder in this repository contains subfolders for the exercises. Ea
 We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit) together. The presentation will provide an introduction to HydroServer, including what HydroServer is, its main components, the types of data and formats that can be managed through HydroServer, a brief overview of possible data ingestion options, and finally, the available deployment options. We will cover these topics in this order.
 
 
-## Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations** 
+## Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations
 
 **Tuesday, September 15, 2026
 11:00 – 12:30**
