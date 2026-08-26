@@ -6,21 +6,30 @@ This repository contains the materials for the [HydroServer](https://hydroserver
 
 Each country folder in this repository contains subfolders for the exercises. Each exercise folder includes the code and sample data needed to complete the exercise.
 
-**Session 4a - Introduction to HydroServer: Architecture, Data Models & Key Components** 
+**Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options ** 
 
 **Tuesday, September 15, 2026
 09:00 – 10:40**
 
-- **Exercise 1: Loading Sensor Data for a Monitoring Station**: See the [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) for instructions. We will go through the presentation and complete the exercise together during the first session of the workshop. The presentation uses Rwanda as an example, where we upload stage data from the Kanzenze station covering the period from 1971 to 2015. The exercises for the other countries follow a similar structure.
+- We will go through this [Presentation]([https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit]) together. The presentation will provide an introduction to HydroServer, including what HydroServer is, its main components, the types of data and formats that can be managed through HydroServer, a brief overview of possible data ingestion options, and finally, the available deployment options. We will cover these topics in this order.
+
+
+**Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations** 
+
+**Tuesday, September 15, 2026
+11:00 – 12:30**
+
+In this session, you will learn how to get started with HydroServer through a practical exercise. We will cover the key concepts that define HydroServer by creating a workspace, adding a monitoring site, creating a datastream to receive observations, and adding observations.
+
+We will demonstrate how to complete these tasks using the HydroServer Python package, which allows you to interact with HydroServer programmatically, as well as through the HydroServer Data Management App in the HydroServer Playground.
+
+We will go through this [Presentation][(https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit)] together step by step.
+ 
+ The presentation uses Rwanda as an example, where we upload stage data from the Kanzenze station covering the period from 1971 to 2015. The exercises for the other countries follow a similar structure.
 
   In this exercise, you will create your own *workspace* to manage your data, a *monitoring site* representing the physical location where measurements are collected, a *datastream* containing metadata about the instrument taking measurements at the monitoring site, and *observations* corresponding to the measurements in the Excel and CSV files you shared with us before the workshop. If you navigate to the `Exercise1/data/` folder, you will find the sample data you shared with us.
 
   The code is written in Python in Jupyter Notebooks with the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package. You can access and run Exercise 1 here: [Access Exercise 1](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
-
-**Session 5a - Methods for Loading Observations into HydroServer** 
-
-**Tuesday, September 15, 2026
-11:00 – 12:30**
 
 - **Exercise 2: Other Methods to Load Observations into HydroServer:** See the [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) for instructions. We will go through the presentation and complete the exercise together during the second session of the workshop.
 
