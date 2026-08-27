@@ -52,9 +52,13 @@ We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/
 
 The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
 
-You can access and run **Exercise 1** here:
+You can access and run **Exercise 1** here using binder:
 
-👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+👉 [**Access Exercise 1 in binder**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+You can access here if you prefer Google Colab:
+
+👉 [**Access Exercise 1 in google colab**]https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?
 
 
 # Session 6a - Working with HydroServer: Automated Data Ingestion, Visualization, and Quality Control
