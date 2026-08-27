@@ -52,7 +52,7 @@ We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/
 
 The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
 
-You can access and run **Exercise 1** here using binder:
+You can access and run **Exercise 1** here using Binder:
 
 👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
@@ -99,9 +99,13 @@ We will go through this [Presentation](https://www.canva.com/design/DAHRXH_5IfU/
 
 The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
 
-You can access and run **Exercise 2** here:
+You can access and run **Exercise 2** here using Binder:
 
 👉 [**Access Exercise 2**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+You can access the exercise here if you prefer to run it in Google Colab:
+
+👉 [**Access Exercise 2 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
 
 # Session 7a - Querying Data and Automated Data Workflows in HydroServer  
 
@@ -134,7 +138,15 @@ This will show you how to access data stored in HydroServer programmatically and
 We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step.
 
 ### Access the exercises
+
+You can access and run **Exercise 3** here using Binder:
+
 👉 [**Access Exercise 3**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+You can access the exercise here if you prefer to run it in Google Colab:
+
+👉 [**Access Exercise 3 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
+
 
 ### Exercise 4: Automating Data Ingestion Workflows
 
@@ -143,7 +155,14 @@ During the fourth exercise, we will explore additional approaches for **automati
 Building on the Streaming Data Loader introduced in Session 6a, we will look at additional approaches for connecting data sources to HydroServer and automatically keeping your observations up to date.
 
 ### Access the exercises
+
+You can access and run **Exercise 4** here using Binder:
+
 👉 [**Access Exercise 4**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+You can access the exercise here if you prefer to run it in Google Colab:
+
+👉 [**Access Exercise 4 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
 
 
 
