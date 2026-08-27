@@ -130,7 +130,7 @@ This will show you how to access data stored in HydroServer programmatically and
 We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step.
 
 ### Access the exercises
-👉 [**Access Exercise 3**](LINK)
+👉 [**Access Exercise 3**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 ### Exercise 4: Automating Data Ingestion Workflows
 
@@ -139,7 +139,7 @@ During the fourth exercise, we will explore additional approaches for **automati
 Building on the Streaming Data Loader introduced in Session 6a, we will look at additional approaches for connecting data sources to HydroServer and automatically keeping your observations up to date.
 
 ### Access the exercises
-👉 [**Access Exercise 4**](LINK)
+👉 [**Access Exercise 4**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 
 
