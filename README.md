@@ -165,7 +165,25 @@ You can access the exercise here if you prefer to run it in Google Colab:
 👉 [**Access Exercise 4 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
 
 
+### Exercise 5: Automating Data Uploads with HydroServer ETL Tasks
 
+In this final exercise, we will explore how to use HydroServer ETL Tasks to automate data ingestion by creating a Data Connection.
 
+Unlike the custom Python ETL workflow used in Exercise 4, HydroServer ETL Tasks include their own job orchestration and scheduling. Therefore, you do not need to use an external scheduler such as Windows Task Scheduler or GitHub Actions.
 
+However, automated ETL Tasks require a deployed HydroServer instance with the orchestration system enabled. For this training, we are using the public HydroServer Playground, which does not currently have the orchestration system enabled.
+
+Therefore, we will walk through the configuration of this exercise together, but we will not run the automated ETL Task during the training.
+
+You can use this example after the training to configure automated data ingestion workflows on your own deployed HydroServer instance.
+
+### Access the exercises
+
+You can access and run **Exercise 5** here using Binder:
+
+👉 [**Access Exercise 5**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+
+You can access the exercise here if you prefer to run it in Google Colab:
+
+👉 [**Access Exercise 5 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
 
