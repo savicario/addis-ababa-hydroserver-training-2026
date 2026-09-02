@@ -78,31 +78,29 @@ If you do not have a google account, you can access the exercises through Binder
 
 **Tuesday, September 15, 2026 | 13:45 – 15:15**
 
-In this session, you will learn how to continue working with data in HydroServer through a practical exercise. You will work through the main steps for automating data ingestion, visualizing your data, and performing quality control:
+In this session, you will learn how to continue working with data in HydroServer through a practical exercise. You will work through the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control.
 
 - Upload observations using the **Streaming Data Loader**
 - Automate the upload of new observations to HydroServer
 - **Visualize observations** and explore summary statistics
 - Perform **Quality Control (QC)** on your observations
 
-For this exercise, you will use the sample data that you shared with us before the workshop. The presentation uses **Rwanda** as an example. The exercises for the other countries follow the same general structure.
-
-You can find your country's sample data in the `Exercise2/data/` folder.
+This exercise is the same for all the countries. We will use the current telemetry data from the **Kanzenze station** in Rwanda
 
 ### What you will do
 
 During the exercise, you will:
 
 - Create a **monitoring site** and a new **datastream** to receive observations.
-- Configure the **Streaming Data Loader** to upload observations from a CSV file to upload new observations when the CSV file is updated.
+- Configure the **Streaming Data Loader** to automatically upload new observations to HydroServer whenever the CSV file is updated.
 - **Visualize your observations** in HydroServer and explore summary statistics such as the mean, median, and standard deviation.
 - Use the **HydroServer Quality Control (QC) App** to review and edit your observations.
 
-For **Rwanda**, you do not need to create a new monitoring site because the data used in Exercise 2 comes from the same physical monitoring location in Kanzenze.
 
-For **Kenya, Uganda, and Ethiopia**, you will create a new monitoring site because the sample datasets used in Exercise 2 correspond to different monitoring locations from those used in Exercise 1.
 
-During the Quality Control part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rate of change. You will also explore different operations that can be applied to selected observations, including deleting values, shifting datetimes, interpolating values, adding observations to fill gaps, and assigning data quality qualifiers.
+The Quality Control portion of the exercise will use a [demo version of the Quality Control tool](https://playground.hydroserver.org/quality-control-demo/) available in the HydroServer Playground.
+
+During this part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rates of change. You will also explore different operations that can be applied to selected observations, including deleting values, shifting timestamps, interpolating values, adding observations to fill data gaps, and assigning data quality qualifiers.
 
 ### Follow the presentation
 
@@ -112,13 +110,24 @@ We will go through this [Presentation](https://www.canva.com/design/DAHRXH_5IfU/
 
 The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
 
+You can access and run **Exercise 2** here using Google Colab:
+
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise1/HydroServer_Exercise2_Kenya.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise1/HydroServer_Exercise2_Rwanda.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise1/HydroServer_Exercise2_Uganda.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise2_Rwanda.ipynb)
+
+> **Note:** For **Rwanda**, you do not need to create a new monitoring site because the data used in Exercise 2 come from the same physical monitoring location, the **Kanzenze Hydrological Station**, used in Exercise 1.
+>
+> For **Kenya, Uganda, and Ethiopia**, you will need to create a new monitoring site because the sample datasets used in Exercise 2 correspond to different monitoring locations from those used in Exercise 1.
+
 You can access and run **Exercise 2** here using Binder:
 
 👉 [**Access Exercise 2**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
-You can access the exercise here if you prefer to run it in Google Colab:
-
-👉 [**Access Exercise 2 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
 
 # Session 7a - Querying Data and Automated Data Workflows in HydroServer  
 
