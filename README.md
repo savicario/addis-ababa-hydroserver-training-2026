@@ -89,17 +89,12 @@ This exercise is the same for all the countries. We will use the current telemet
 
 ### What you will do
 
-During the exercise, you will:
+During this session, you will:
 
 - Create a **monitoring site** and a new **datastream** to receive observations.
 - Configure the **Streaming Data Loader** to automatically upload new observations to HydroServer whenever the CSV file is updated.
 - **Visualize your observations** in HydroServer and explore summary statistics such as the mean, median, and standard deviation.
 - Use the **HydroServer Quality Control (QC) App** to review and edit your observations.
-
-
-The Quality Control portion of the exercise will use a [demo version of the Quality Control tool](https://playground.hydroserver.org/quality-control-demo/) available in the HydroServer Playground.
-
-During this part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rates of change. You will also explore different operations that can be applied to selected observations, including deleting values, shifting timestamps, interpolating values, adding observations to fill data gaps, and assigning data quality qualifiers.
 
 ### Follow the presentation
 
@@ -107,7 +102,7 @@ We will go through this [Presentation](https://www.canva.com/design/DAHRXH_5IfU/
 
 ### Access Exercise 2
 
-The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
+This exercise will guide you through creating the monitoring site and datastream needed to load observations using the Streaming Data Loader. You will see that the process is very similar to the workflow you followed in Exercise 1. The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
 
 You can access and run **Exercise 2** here using Google Colab:
 
@@ -127,6 +122,9 @@ You can access and run **Exercise 2** here using Binder:
 
 👉 [**Access Exercise 2**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
+Then, we will use the data uploaded to HydroServer to perform quality control and correct the observations. The Quality Control portion of the exercise will use a [demo version of the Quality Control tool](https://playground.hydroserver.org/quality-control-demo/) available in the HydroServer Playground.
+
+During this part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rates of change. You will also explore different operations for reviewing and correcting selected observations, including deleting values, shifting timestamps, interpolating values, adding observations to fill data gaps, and assigning data quality qualifiers.
 
 # Session 7a - Querying Data and Automated Data Workflows in HydroServer  
 
