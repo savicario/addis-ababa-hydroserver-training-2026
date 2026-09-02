@@ -2,7 +2,9 @@
 
 **Workshop: Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems**
 
-This repository contains the materials for the [HydroServer2](https://hydroserver.org/) [version v1.11.3](https://github.com/hydroserver2) training to be held in Addis Ababa, Ethiopia, on September 14–17, 2026, as part of the Workshop *"Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems"* for the National Hydrological Services of Uganda, Rwanda, Ethiopia, and Kenya. The HydroServer training will take place on September 15, 2026, and will consist of four sessions of approximately 1 hour and 30 minutes each.
+This repository contains the materials for the [HydroServer2](https://hydroserver.org/) [version v1.11.3](https://github.com/hydroserver2) training to be held in Addis Ababa, Ethiopia, on September 14–17, 2026, as part of the Workshop *"Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems"* for the National Hydrological Services of Uganda, Rwanda, Ethiopia, and Kenya. 
+
+The HydroServer training will take place on September 15, 2026, and will consist of four sessions of approximately 1 hour and 30 minutes each.
 
 The training will consist of a presentation for each session, followed by hands-on exercises that we will work through together during the training. The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package.
 
