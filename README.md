@@ -45,7 +45,7 @@ During the exercise, you will create:
 For each step, we will demonstrate how the same task can be performed using:
 
 - The **HydroServer Data Management App** in the [HydroServer Playground](https://playground.hydroserver.org/browse).
-- The **hydroserverpy Python package**, which allows you to interact with HydroServer programmatically. The package is called hydroserverpy [(https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/).
+- The **hydroserverpy Python package**, which allows you to interact with HydroServer programmatically. The package is called [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/).
 
 ### Follow the presentation
 
