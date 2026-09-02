@@ -1,4 +1,4 @@
-# HydroServer Training
+# HydroServer v2 Training
 
 **Workshop: Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems**
 
