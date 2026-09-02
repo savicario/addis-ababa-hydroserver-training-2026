@@ -67,13 +67,15 @@ You can access the exercise here if you prefer to run it in Google Colab:
 
 👉 [**Access Exercise 1 in Google Colab**]
 
-🇰🇪 [Kenya: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise1/HydroServer_Exercise1_Kenya.ipynb)
+<img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise1/HydroServer_Exercise1_Kenya.ipynb)
 
-🇷🇼 [Rwanda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+<img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
 
-🇺🇬 [Uganda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise1/HydroServer_Exercise1_Uganda.ipynb)
+<img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise1/HydroServer_Exercise1_Uganda.ipynb)
 
-🇪🇹 [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+<img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+
+> **Note for Ethiopia:** As I did not have access to Ethiopian data prior to the workshop, the Ethiopia exercise uses the same sample dataset and workflow as the Rwanda exercise.
 
 > **Note for Ethiopia:** As I did not have access to Ethiopian data prior to the workshop, the Ethiopia exercise uses the same sample dataset and workflow as the Rwanda exercise.
 
