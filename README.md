@@ -98,7 +98,7 @@ During this session, you will:
 
 ### Follow the presentation
 
-We will go through this [Presentation](https://www.canva.com/design/DAHRXH_5IfU/O0Qc1su_wU79mp6dOVJOxw/edit) together step by step.
+We will go through this [Presentation](https://www.canva.com/design/DAHR4xPcFfA/avxHbnSRp74WqGka2J0IlQ/edit) together step by step.
 
 ### Access Exercise 2
 
