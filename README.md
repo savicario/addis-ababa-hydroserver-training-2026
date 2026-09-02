@@ -59,11 +59,23 @@ The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroser
 
 You can access and run **Exercise 1** here using Binder:
 
-👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+👉 [**Access Exercise 1**]
+
+
 
 You can access the exercise here if you prefer to run it in Google Colab:
 
-👉 [**Access Exercise 1 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
+👉 [**Access Exercise 1 in Google Colab**]
+
+🇰🇪 [Kenya: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise1/HydroServer_Exercise1_Kenya.ipynb)
+
+🇷🇼 [Rwanda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+
+🇺🇬 [Uganda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise1/HydroServer_Exercise1_Uganda.ipynb)
+
+🇪🇹 [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+
+> **Note for Ethiopia:** As I did not have access to Ethiopian data prior to the workshop, the Ethiopia exercise uses the same sample dataset and workflow as the Rwanda exercise.
 
 
 # Session 6a - Working with HydroServer: Automated Data Ingestion, Visualization, and Quality Control
