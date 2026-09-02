@@ -2,9 +2,12 @@
 
 **Workshop: Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems**
 
-This repository contains the materials for the [HydroServer](https://hydroserver.org/) version 1.11 training to be held in Addis Ababa, Ethiopia, on September 14–17, 2026, as part of the Workshop *"Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems"* for the National Hydrological Services of Uganda, Rwanda, Ethiopia, and Kenya. TThe HydroServer training will take place on September 15, 2026, and will consist of four sessions.
+This repository contains the materials for the [HydroServer2](https://hydroserver.org/) [version v1.11.3](https://github.com/hydroserver2) training to be held in Addis Ababa, Ethiopia, on September 14–17, 2026, as part of the Workshop *"Piloting Interoperable Hydrometeorological Data Systems for Multi-Hazard Early Warning Systems"* for the National Hydrological Services of Uganda, Rwanda, Ethiopia, and Kenya. The HydroServer training will take place on September 15, 2026, and will consist of four sessions of approximately 1 hour and 30 minutes each.
 
-Each country folder in this repository contains subfolders for the exercises. Each exercise folder includes the code and sample data needed to complete the exercise.
+The training will consist of a presentation for each session, followed by hands-on exercises that we will work through together during the training. The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package.
+
+In this repository, each country has its own folder containing subfolders for Exercises 1 through 5. Each exercise folder includes the Python code and, when applicable, the sample data needed to complete the exercise.
+The training will consist in a presentation for each session and exercises written in python that we will follow together during the training. In this repository, each country folder contains subfolders for the exercises from 1 to 5. Each exercise folder includes the code and in some cases sample data needed to complete the exercise.
 
 
 # Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options 
@@ -19,16 +22,16 @@ We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/
 **Tuesday, September 15, 2026 | 11:00 – 12:30**
 
 
-In this session, you will learn how to get started with HydroServer through a practical exercise. You will work through the main steps required to add historical monitoring data to HydroServer:
+In this session, you will learn how to get started with HydroServer through a practical exercise (Exercise 1). You will work through the main steps required to set up your workspace and upload historical stage data to HydroServer:
 
 - Create a **workspace**
 - Add a **monitoring site**
 - Create a **datastream**
 - Upload **historical observations**
 
-For this exercise, you will use the sample data that you shared with us before the workshop. The presentation uses **Rwanda** as an example, where we will upload historical stage data from the **Kanzenze station** covering the period from **1971 to 2015**. The exercises for the other countries follow the same general structure.
+For this exercise, you will use the sample data that you shared with us before the workshop. The presentation uses **Rwanda** as an example, where we will upload historical stage data from the **Kanzenze station** covering the period from **1971 to 2015**. The stage data for this station were obtained from the [Rwanda Water Resources Portal](https://waterportal.rwb.rw/index.php/location_ng_info/259501). The exercises for the other countries follow the same structure; the only difference is that they use sample data specific to each country. You can find your country's sample data in the `Exercise1/data/` folder.
 
-You can find your country's sample data in the `Exercise1/data/` folder.
+**When running the exercise code, please run each cell only once and avoid running the same cell multiple times**.
 
 ### What you will create
 
@@ -37,12 +40,12 @@ During the exercise, you will create:
 - A **workspace** where you can manage your data.
 - A **monitoring site** representing the physical location where measurements are collected.
 - A **datastream** containing metadata about the instrument and the measurements collected at the monitoring site.
-- **Observations** corresponding to the historical measurements contained in the Excel or CSV files you provided.
+- **Observations** corresponding to the historical measurements contained in the CSV file you provided.
 
 For each step, we will demonstrate how the same task can be performed using:
 
-- The **HydroServer Data Management App** in the HydroServer Playground.
-- The **hydroserverpy Python package**, which allows you to interact with HydroServer programmatically.
+- The **HydroServer Data Management App** in the [HydroServer Playground](https://playground.hydroserver.org/browse).
+- The **hydroserverpy Python package**, which allows you to interact with HydroServer programmatically. The package is called hydroserverpy [(https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/).
 
 ### Follow the presentation
 
