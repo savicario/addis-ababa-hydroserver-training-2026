@@ -164,7 +164,7 @@ You can access and run **Exercise 3** here using Google Colab:
 
 If you do not have a google account, you can access the exercises through Binder:
 
-👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+👉 [**Access Exercise 3**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 ### Exercise 4: Automating Data Ingestion Workflows
 
