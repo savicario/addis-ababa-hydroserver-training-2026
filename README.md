@@ -124,7 +124,7 @@ You can access and run **Exercise 2** here using Binder:
 
 Then, we will use the data uploaded to HydroServer to perform quality control and correct the observations. The Quality Control portion of the exercise will use a [demo version of the Quality Control tool](https://playground.hydroserver.org/quality-control-demo/) available in the HydroServer Playground.
 
-During this part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rates of change. You will also explore different operations for reviewing and correcting selected observations, including deleting values, shifting timestamps, interpolating values, adding observations to fill data gaps, and assigning data quality qualifiers.
+**Continuation of Exercise 2**: During this part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rates of change. You will also explore different operations for reviewing and correcting selected observations, including deleting values, shifting timestamps, interpolating values, adding observations to fill data gaps, and assigning data quality qualifiers.
 
 # Session 7a - Querying Data and Automated Data Workflows in HydroServer  
 
