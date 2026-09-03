@@ -130,31 +130,23 @@ During this part of the exercise, you will learn how to select and filter observ
 
 **Wednesday, September 16, 2026 | 15:35 – 17:30**
 
-In this session, you will learn how to retrieve the data you have uploaded to HydroServer and explore additional ways to automate data ingestion workflows. You will work through two practical exercises:
+In this session, you will learn how to retrieve data from HydroServer using the [hydroserverpy](https://pypi.org/project/hydroserverpy/) package and explore additional methods for automating data ingestion workflows. You will work through two practical exercises.
 
-- **Query data** stored in HydroServer using Python
-- Retrieve information about your **workspace, monitoring sites, datastreams, and observations**
-- Explore additional approaches for **automating data ingestion workflows**
-
-### What you will do
+### What You Will Do
 
 ### Exercise 3: Querying Data from HydroServer
-During the third exercise, you will use the data that you uploaded to HydroServer in the previous sessions. Using simple Python code and the **hydroserverpy** package, you will learn how to retrieve information from HydroServer and access your observations programmatically.
 
-In this exercise, you will use the **hydroserverpy** Python package to query the data you uploaded to HydroServer during the previous exercises.
+During the third exercise, you will learn how to **query data stored in HydroServer**. In particular, you will retrieve the real-time stage data that you uploaded using the [Streaming Data Loader](https://hydroserver.org/user-guides/how-to/using-streaming-data-loader) and quality-controlled using the [HydroServer QC App](https://hydroserver.org/user-guides/how-to/quality-controlling-data.html) in Session 6a.
 
-You will see examples of how to retrieve:
+Using Python and the [**hydroserverpy**](https://pypi.org/project/hydroserverpy/) package, you will:
 
-- Your **workspace**
-- Your **monitoring sites**
-- Your **datastreams**
-- Your **observations**
-
-This will show you how to access data stored in HydroServer programmatically and use it in your own Python scripts and data workflows.
+- Retrieve information about your **workspace, monitoring sites, datastreams, and observations**.
+- Access and explore your **quality-controlled observations programmatically**.
+- Explore additional approaches for **automating data ingestion workflows**.
 
 ### Follow the presentation
 
-We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step.
+We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
 
 ### Access the exercises
 
