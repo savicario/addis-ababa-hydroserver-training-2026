@@ -51,7 +51,7 @@ For each step, we will demonstrate how the same task can be performed using:
 
 ### Follow the presentation
 
-We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step.
+We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
 
 ### Access Exercise 1
 
@@ -98,7 +98,7 @@ During this session, you will:
 
 ### Follow the presentation
 
-We will go through this [Presentation](https://www.canva.com/design/DAHR4xPcFfA/avxHbnSRp74WqGka2J0IlQ/edit) together step by step.
+We will go through this [Presentation](https://www.canva.com/design/DAHR4xPcFfA/avxHbnSRp74WqGka2J0IlQ/edit) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
 
 ### Access Exercise 2
 
