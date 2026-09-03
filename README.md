@@ -148,16 +148,23 @@ Using Python and the [**hydroserverpy**](https://pypi.org/project/hydroserverpy/
 
 We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
 
-### Access the exercises
+### Access Exercise 3
 
-You can access and run **Exercise 3** here using Binder:
+The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
 
-👉 [**Access Exercise 3**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
+You can access and run **Exercise 3** here using Google Colab:
 
-You can access the exercise here if you prefer to run it in Google Colab:
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise3/HydroServer_Exercise3_Kenya.ipynb)
 
-👉 [**Access Exercise 3 in Google Colab**](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026?)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise3/HydroServer_Exercise3_Rwanda.ipynb)
 
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise3/HydroServer_Exercise3_Uganda.ipynb)
+
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise3/HydroServer_Exercise3_Rwanda.ipynb)
+
+If you do not have a google account, you can access the exercises through Binder:
+
+👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 ### Exercise 4: Automating Data Ingestion Workflows
 
