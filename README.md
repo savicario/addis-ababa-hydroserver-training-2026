@@ -39,10 +39,6 @@ By the end of the exercise, each country will have an example showing **how its 
 
 After completing this exercise, you will understand the **structure and relationships of the HydroServer data model** and be ready to move from the mapping you created by hand to **creating the corresponding monitoring sites and datastreams in HydroServer**.
 
-## Interactive Exercise: Map Your Monitoring Site to HydroServer
-
-In this exercise, you will work with the other participants from your country to map your monitoring site metadata to the **HydroServer data model**.
-
 ### Instructions
 
 1. **Work with your country team.**
