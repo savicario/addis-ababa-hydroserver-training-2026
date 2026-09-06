@@ -16,7 +16,7 @@ The training will consist in a presentation for each session and exercises writt
 
 **Tuesday, September 15, 2026 | 09:00 – 10:40**
 
-# Session Overview
+### Session Overview
 
 This first session provides an **introduction to HydroServer**. We will cover:
 
@@ -29,7 +29,7 @@ This first session provides an **introduction to HydroServer**. We will cover:
 
 We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit) together.
 
-# Interactive Exercise: Map Your Monitoring Data to HydroServer
+### Interactive Exercise: Map Your Monitoring Data to HydroServer
 
 Working with the other participants from your country, you will map the **monitoring site metadata and time-series metadata** you shared before the training to the **HydroServer data model**.
 
@@ -44,7 +44,7 @@ After completing this exercise, you will understand the **structure and relation
 
 **Tuesday, September 15, 2026 | 11:00 – 12:30**
 
-# Session Overview
+### Session Overview
 
 In this session, you will learn how to get started with HydroServer through a practical exercise (Exercise 1). You will work through the main steps required to set up your workspace and upload historical stage data to HydroServer:
 
