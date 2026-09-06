@@ -100,7 +100,7 @@ If you do not have a google account, you can access the exercises through Binder
 
 **Tuesday, September 15, 2026 | 13:45 – 15:15**
 
-## Session Overview
+### Session Overview
 
 In this session, you will learn how to continue working with data in HydroServer through a practical exercise. You will work through the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control.
 
@@ -154,7 +154,7 @@ Then, we will use the data uploaded to HydroServer to perform quality control an
 
 **Wednesday, September 16, 2026 | 15:35 – 17:30**
 
-## Session Overview
+### Session Overview
 
 In this session, you will learn how to retrieve data from HydroServer using the [hydroserverpy](https://pypi.org/project/hydroserverpy/) package and explore additional methods for automating data ingestion workflows. You will work through two practical exercises.
 
