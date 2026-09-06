@@ -39,6 +39,44 @@ By the end of the exercise, each country will have an example showing **how its 
 
 After completing this exercise, you will understand the **structure and relationships of the HydroServer data model** and be ready to move from the mapping you created by hand to **creating the corresponding monitoring sites and datastreams in HydroServer**.
 
+## Interactive Exercise: Map Your Monitoring Site to HydroServer
+
+In this exercise, you will work with the other participants from your country to map your monitoring site metadata to the **HydroServer data model**.
+
+### Instructions
+
+1. **Work with your country team.**
+
+2. You will receive a set of cards containing the **HydroServer metadata properties** for a monitoring site, such as:
+   - `name`
+   - `sampling_feature_code`
+   - `site_type`
+   - `latitude`
+   - `longitude`
+   - `elevation_m`
+   - `admin_area_1`
+   - `country`
+
+3. For each HydroServer property, identify the corresponding information in the **sample monitoring site data from your country**.
+
+4. On the paper provided, write the **value for your monitoring station**.
+
+   For example:
+
+   **HydroServer property:** `sampling_feature_code`  
+   **Your station value:** `259501`
+
+5. Place your value next to the corresponding **HydroServer property card on the wall**.
+
+6. Continue until your team has mapped all the available metadata for your monitoring site.
+
+7. As a group, review your mapping and identify:
+   - Metadata that maps directly to a HydroServer property.
+   - Metadata that you do not have.
+   - Metadata from your existing system that does not have an obvious HydroServer property.
+
+Once completed, the wall will represent **your monitoring site using the HydroServer data model**.
+
 
 # Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations
 
