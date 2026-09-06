@@ -16,13 +16,35 @@ The training will consist in a presentation for each session and exercises writt
 
 **Tuesday, September 15, 2026 | 09:00 – 10:40**
 
-We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit) together. The presentation will provide an introduction to HydroServer, including what HydroServer is, its main components, the types of data and formats that can be managed through HydroServer, a brief overview of possible data ingestion options, and finally, the available deployment options. We will cover these topics in this order.
+## Session Overview
+
+This first session provides an **introduction to HydroServer**. We will cover:
+
+- **What HydroServer is**.
+- **HydroServer architecture** and its main components.
+- **Deployment options**, including cloud and on-premises deployments.
+- **Step-by-step deployment examples using Google Cloud and Docker.** Due to time constraints, we will not complete these deployments during the session, but the instructions will be available for you to follow after the training.
+- **Production deployment and operational considerations** ideas for running your own HydroServer instance.
+- **The HydroServer data model** and how monitoring data are structured and organized.
+
+We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit) together.
+
+## Interactive Exercise: Map Your Monitoring Data to HydroServer
+
+Working with the other participants from your country, you will map the **monitoring site metadata and time-series metadata** you shared before the training to the **HydroServer data model**.
+
+Together, you will identify how your existing monitoring data correspond to HydroServer elements such as **Monitoring Sites (Things), Datastreams, Sensors, Observed Properties, Units, and Processing Levels**.
+
+By the end of the exercise, each country will have an example showing **how its existing monitoring data can be structured using the HydroServer data model**.
+
+After completing this exercise, you will understand the **structure and relationships of the HydroServer data model** and be ready to move from the mapping you created by hand to **creating the corresponding monitoring sites and datastreams in HydroServer**.
 
 
 # Session 5a - Getting Started with HydroServer: Setup, Data Management, and Observations
 
 **Tuesday, September 15, 2026 | 11:00 – 12:30**
 
+## Session Overview
 
 In this session, you will learn how to get started with HydroServer through a practical exercise (Exercise 1). You will work through the main steps required to set up your workspace and upload historical stage data to HydroServer:
 
@@ -78,6 +100,8 @@ If you do not have a google account, you can access the exercises through Binder
 
 **Tuesday, September 15, 2026 | 13:45 – 15:15**
 
+## Session Overview
+
 In this session, you will learn how to continue working with data in HydroServer through a practical exercise. You will work through the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control.
 
 - Upload observations using the **Streaming Data Loader**
@@ -129,6 +153,8 @@ Then, we will use the data uploaded to HydroServer to perform quality control an
 # Session 7a - Querying Data and Automated Data Workflows in HydroServer  
 
 **Wednesday, September 16, 2026 | 15:35 – 17:30**
+
+## Session Overview
 
 In this session, you will learn how to retrieve data from HydroServer using the [hydroserverpy](https://pypi.org/project/hydroserverpy/) package and explore additional methods for automating data ingestion workflows. You will work through two practical exercises.
 
