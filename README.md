@@ -6,11 +6,15 @@ This repository contains the materials for the [HydroServer2](https://hydroserve
 
 The HydroServer training will take place on September 15, 2026, from 8:00 AM to 5:30 PM. It will consist of four sessions of approximately 1 hour and 30 minutes each, with 20-minute breaks between sessions and a lunch break from 12:30 PM to 1:45 PM.
 
-The training will consist of a presentation for each session, followed by hands-on exercises that we will work through together during the training. The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package.
+**Training Structure**
+
+The training will consist of a presentation followed by interactive, hands-on exercises that we will work through together during the session. 
+
+The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package. You can learn more about hydroserverpy in the (official documentation)[https://pypi.org/project/hydroserverpy/]
 
 In this repository, each country has its own folder containing subfolders for Exercises 1 through 5. Each exercise folder includes the Python code and, when applicable, the sample data needed to complete the exercise.
-The training will consist in a presentation for each session and exercises written in python that we will follow together during the training. In this repository, each country folder contains subfolders for the exercises from 1 to 5. Each exercise folder includes the code and in some cases sample data needed to complete the exercise.
 
+**Information about each session**
 
 # Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options 
 
@@ -87,9 +91,13 @@ In this session, you will learn how to get started with HydroServer through a pr
 - Create a **datastream**
 - Upload **historical observations**
 
-For this exercise, you will use the sample data that you shared with us before the workshop. The presentation uses **Rwanda** as an example, where we will upload historical stage data from the **Kanzenze station** covering the period from **1971 to 2015**. The stage data for this station were obtained from the [Rwanda Water Resources Portal](https://waterportal.rwb.rw/index.php/location_ng_info/259501). The exercises for the other countries follow the same structure; the only difference is that they use sample data specific to each country. You can find your country's sample data in the `Exercise1/data/` folder.
+The presentation uses **Rwanda** as an example, where we will upload historical stage data from the **Kanzenze station** covering the period from **1971 to 2015**. The stage data for this station were obtained from the [Rwanda Water Resources Portal](https://waterportal.rwb.rw/index.php/location_ng_info/259501). 
 
-**When running the exercise code, please run each cell only once and avoid running the same cell multiple times**.
+The exercises for the other countries follow the same structure; the only difference is that they use sample data specific to each country. You can find your country's sample data in the `Exercise1/data/` folder. This is the data you shared with us prior to the workshop.
+
+> **Note for Ethiopia:** As I did not have access to Ethiopian data prior to the workshop, the Ethiopia exercise uses the same sample dataset and workflow as the Rwanda exercise.
+
+**When running the exercise code, please run each cell only once and avoid running the same cell multiple times. If your session gets disconnected, simply click Reconnect and continue from where you left off. Do not rerun cells that you have already executed.**
 
 ### What you will create
 
@@ -98,7 +106,7 @@ During the exercise, you will create:
 - A **workspace** where you can manage your data.
 - A **monitoring site** representing the physical location where measurements are collected.
 - A **datastream** containing metadata about the instrument and the measurements collected at the monitoring site.
-- **Observations** corresponding to the historical measurements contained in the CSV file you provided.
+- **Observations** corresponding to the historical measurements contained in the CSV file.
 
 For each step, we will demonstrate how the same task can be performed using:
 
@@ -111,7 +119,7 @@ We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/
 
 ### Access Exercise 1
 
-The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) Python package.
+The Python exercise is provided as a **Jupyter Notebook**.
 
 You can access and run **Exercise 1** here using Google Colab:
 
@@ -127,8 +135,6 @@ If you do not have a google account, you can access the exercises through Binder
 
 👉 [**Access Exercise 1**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
-> **Note for Ethiopia:** As I did not have access to Ethiopian data prior to the workshop, the Ethiopia exercise uses the same sample dataset and workflow as the Rwanda exercise.
-
 
 # Session 6a - Working with HydroServer: Automated Data Ingestion, Visualization, and Quality Control
 
@@ -136,7 +142,7 @@ If you do not have a google account, you can access the exercises through Binder
 
 ### Session Overview
 
-In this session, you will learn how to continue working with data in HydroServer through a practical exercise. You will work through the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control.
+In this session, you will learn how to continue working with real data in HydroServer through a practical exercise. You will work through the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control.
 
 - Upload observations using the **Streaming Data Loader**
 - Automate the upload of new observations to HydroServer
