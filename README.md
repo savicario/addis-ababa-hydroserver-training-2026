@@ -14,7 +14,7 @@ The exercises are written in Python and primarily use the [hydroserverpy](https:
 
 In this repository, each country has its own folder containing subfolders for Exercises 1 through 5. Each exercise folder includes the Python code and, when applicable, the sample data needed to complete the exercise.
 
-**Information about each session**
+# Information about each session
 
 # Session 4a - Introduction to HydroServer: Architecture, Data Models & Deployment Options 
 
