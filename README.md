@@ -10,7 +10,7 @@ The HydroServer training will take place on September 15, 2026, from 8:00 AM to 
 
 The training will consist of a presentation followed by interactive, hands-on exercises that we will work through together during the session. 
 
-The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package. You can learn more about hydroserverpy in the (official documentation)[https://pypi.org/project/hydroserverpy/]
+The exercises are written in Python and primarily use the [hydroserverpy](https://hydroserver.org/user-guides/tutorials/getting-started-with-hydroserverpy/) package. You can learn more about hydroserverpy in the [official documentation](https://pypi.org/project/hydroserverpy/)
 
 In this repository, each country has its own folder containing subfolders for Exercises 1 through 5. Each exercise folder includes the Python code and, when applicable, the sample data needed to complete the exercise.
 
