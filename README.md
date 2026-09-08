@@ -142,20 +142,23 @@ If you do not have a google account, you can access the exercises through Binder
 
 ### Session Overview
 
-In this session, you will learn how to continue working with real data in HydroServer through a practical exercise. You will work through the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control.
+In this session, you will continue working with real data in HydroServer through a practical exercise. However, instead of using code, you will use applications developed by the HydroServer team to facilitate data ingestion and quality control.
+
+You will learn the main steps for automating data ingestion from CSV files, visualizing your data, and performing quality control. These tools are particularly useful when you want to interact with HydroServer without programming.
+
+The steps you will follow are:
 
 - Upload observations using the **Streaming Data Loader**
-- Automate the upload of new observations to HydroServer
 - **Visualize observations** and explore summary statistics
 - Perform **Quality Control (QC)** on your observations
 
-This exercise is the same for all the countries. We will use the current telemetry data from the **Kanzenze station** in Rwanda
+The exercise for this session (Exercise 2) is the same for all countries. We will use the current telemetry data from the **Kanzenze Hydrological Station** in Rwanda, which was also used as an example in Exercise 1.
 
 ### What you will do
 
 During this session, you will:
 
-- Create a **monitoring site** and a new **datastream** to receive observations.
+- Create a **monitoring site** (Kenya and Uganda) and a new **datastream** to receive observations.
 - Configure the **Streaming Data Loader** to automatically upload new observations to HydroServer whenever the CSV file is updated.
 - **Visualize your observations** in HydroServer and explore summary statistics such as the mean, median, and standard deviation.
 - Use the **HydroServer Quality Control (QC) App** to review and edit your observations.
@@ -186,7 +189,7 @@ You can access and run **Exercise 2** here using Binder:
 
 👉 [**Access Exercise 2**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
-Then, we will use the data uploaded to HydroServer to perform quality control and correct the observations. The Quality Control portion of the exercise will use a [demo version of the Quality Control tool](https://playground.hydroserver.org/quality-control-demo/) available in the HydroServer Playground.
+Then, we will use the data uploaded to HydroServer to perform quality control on the observations. The Quality Control portion of the exercise will use a [demo version of the Quality Control tool](https://playground.hydroserver.org/quality-control-demo/) available in the HydroServer Playground.
 
 **Continuation of Exercise 2**: During this part of the exercise, you will learn how to select and filter observations using criteria such as thresholds, date ranges, and rates of change. You will also explore different operations for reviewing and correcting selected observations, including deleting values, shifting timestamps, interpolating values, adding observations to fill data gaps, and assigning data quality qualifiers.
 
