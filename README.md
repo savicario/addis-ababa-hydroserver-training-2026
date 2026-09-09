@@ -220,8 +220,6 @@ We will go through this [Presentation](https://canva.link/5gkof1x3mb7e8pt) toget
 
 You can refer back to the presentation after the training to review the key concepts and exercise steps.
 
----
-
 ## Exercise 3: Querying Data from HydroServer
 
 In Exercise 3, you will learn how to **query metadata and observations stored in HydroServer**.
@@ -250,7 +248,6 @@ If you do not have a Google account, you can access the exercise through Binder:
 
 👉 [**Access Exercise 3 with Binder**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
----
 
 ## Exercise 4: Building a Custom ETL Pipeline for Automated Data Ingestion
 
@@ -284,8 +281,6 @@ The exercise is provided as a **Jupyter Notebook** and can be run using Google C
 If you do not have a Google account, you can access the exercise through Binder:
 
 👉 [**Access Exercise 4 with Binder**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
-
----
 
 ## Exercise 5: Automating Data Ingestion with HydroServer ETL Tasks
 
