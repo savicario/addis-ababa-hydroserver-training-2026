@@ -6,6 +6,12 @@ This repository contains the materials for the [HydroServer2](https://hydroserve
 
 The HydroServer training will take place on September 15, 2026, from 8:00 AM to 5:30 PM. It will consist of four sessions of approximately 1 hour and 30 minutes each, with 20-minute breaks between sessions and a lunch break from 12:30 PM to 1:45 PM.
 
+**Contact us**
+
+To contact the HydroServer developers, email: jeff.horsburgh@usu.edu
+
+To contact the trainers for this workshop, email: svicario@lincolninst.edu
+
 **Training Structure**
 
 The training will consist of a presentation followed by interactive, hands-on exercises that we will work through together during the session. 
