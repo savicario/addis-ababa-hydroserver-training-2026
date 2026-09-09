@@ -320,4 +320,4 @@ If you do not have a Google account, you can access the exercise through Binder:
 👉 [**Access Exercise 5 with Binder**](https://mybinder.org/v2/gh/savicario/addis-ababa-hydroserver-training-2026/main?urlpath=lab)
 
 
-Congratulations! After completing the exercises and reviewing the training materials, you have successfully completed your HydroServer training! 🎉
+**Congratulations! After completing the exercises and reviewing the training materials, you have successfully completed your HydroServer training!** 🎉
