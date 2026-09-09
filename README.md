@@ -17,6 +17,7 @@ In this repository, each country has its own folder containing subfolders for Ex
 **Contact us**
 
 To contact the HydroServer developers, email: jeff.horsburgh@usu.edu
+
 To contact the trainers for this workshop, email: svicario@lincolninst.edu
 
 # Information about each session
