@@ -36,7 +36,7 @@ This first session provides an **introduction to HydroServer**. We will cover:
 - **Production deployment and operational considerations** ideas for running your own HydroServer instance.
 - **The HydroServer data model** and how monitoring data are structured and organized.
 
-We will go through this [Presentation](https://www.canva.com/design/DAHTaIylsx4/UT70W8BzloZcVcoe-jTBig/edit) together.
+We will go through this [Presentation](https://canva.link/zpbfj5kay6dlxnf) together.
 
 ### Interactive Exercise: Map Your Monitoring Data to HydroServer
 
@@ -120,7 +120,7 @@ For each step, we will demonstrate how the same task can be performed using:
 
 ### Follow the presentation
 
-We will go through this [Presentation](https://www.canva.com/design/DAHRQLP5gXM/pqTYE9o6zTy-eI5wYU9MmA/edit) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
+We will go through this [Presentation](https://canva.link/f2owvli9thlogdi) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
 
 ### Access Exercise 1
 
@@ -170,7 +170,7 @@ During this session, you will:
 
 ### Follow the presentation
 
-We will go through this [Presentation](https://www.canva.com/design/DAHR4xPcFfA/avxHbnSRp74WqGka2J0IlQ/edit) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
+We will go through this [Presentation](https://canva.link/5f4ruvvkpd94652) together step by step. You can refer back to the presentations after the training to review key concepts and exercise steps.
 
 ### Access Exercise 2
 
@@ -216,7 +216,7 @@ Together, these exercises demonstrate how to retrieve data from HydroServer and 
 
 ### Follow the Presentation
 
-We will go through this [Presentation](https://www.canva.com/design/DAHTaSbpvA8/6u_c2D13NrFw4MAb8ujgeg/edit) together step by step.
+We will go through this [Presentation](https://canva.link/5gkof1x3mb7e8pt) together step by step.
 
 You can refer back to the presentation after the training to review the key concepts and exercise steps.
 
