@@ -223,13 +223,13 @@ The Python exercise is provided as a **Jupyter Notebook** and uses the [hydroser
 
 You can access and run **Exercise 3** here using Google Colab:
 
-👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise3/HydroServer_Exercise3_Kenya.ipynb)
+👉 <img src="https://flagcdn.com/w40/ke.png" width="28"> [Kenya: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/kenya/Exercise3/HydroServer_Exercise3.ipynb?)
 
-👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise3/HydroServer_Exercise3_Rwanda.ipynb)
+👉 <img src="https://flagcdn.com/w40/rw.png" width="28"> [Rwanda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/rwanda/Exercise3/HydroServer_Exercise3.ipynb?)
 
-👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise3/HydroServer_Exercise3_Uganda.ipynb)
+👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise3/HydroServer_Exercise3.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise3/HydroServer_Exercise3_Rwanda.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 3](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise3/HydroServer_Exercise3.ipynb)
 
 If you do not have a google account, you can access the exercises through Binder:
 
