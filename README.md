@@ -6,7 +6,7 @@ This repository contains the materials for the [HydroServer2](https://hydroserve
 
 The HydroServer training will take place on **September 15, 2026, from 8:00 AM to 5:30 PM**. It will consist of four sessions of approximately 1 hour and 30 minutes each, with 20-minute breaks between sessions and a lunch break from 12:30 PM to 1:45 PM.
 
-These training materials were developed by **Sara Alonso Vicario** at the Center for Geospatial Solutions, Lincoln Institute of Land Policy.
+These training materials were developed by **Sara Alonso Vicario** at the **Center for Geospatial Solutions, Lincoln Institute of Land Policy.**
 
 **Training Structure**
 
