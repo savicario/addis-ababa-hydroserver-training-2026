@@ -184,11 +184,11 @@ You can access and run **Exercise 2** here using Google Colab:
 
 👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise2/HydroServer_Exercise2_Uganda.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise2/HydroServer_Exercise2_Rwanda.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 2](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise2/HydroServer_Exercise2_Ethiopia.ipynb)
 
-> **Note:** For **Rwanda**, you do not need to create a new monitoring site because the data used in Exercise 2 come from the same physical monitoring location, the **Kanzenze Hydrological Station**, used in Exercise 1.
+> **Note:** For **Rwanda and Ethiopia**, you do not need to create a new monitoring site because the data used in Exercise 2 come from the same physical monitoring location, the **Kanzenze Hydrological Station**, used in Exercise 1.
 >
-> For **Kenya, Uganda, and Ethiopia**, you will need to create a new monitoring site because the sample datasets used in Exercise 2 correspond to different monitoring locations from those used in Exercise 1.
+> For **Kenya and Uganda**, you will need to create a new monitoring site because the sample datasets used in Exercise 2 correspond to different monitoring locations from those used in Exercise 1.
 
 You can access and run **Exercise 2** here using Binder:
 
