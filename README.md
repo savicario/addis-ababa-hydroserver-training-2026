@@ -134,7 +134,7 @@ You can access and run **Exercise 1** here using Google Colab:
 
 👉 <img src="https://flagcdn.com/w40/ug.png" width="28"> [Uganda: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/uganda/Exercise1/HydroServer_Exercise1_Uganda.ipynb)
 
-👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise1_Rwanda.ipynb)
+👉 <img src="https://flagcdn.com/w40/et.png" width="28"> [Ethiopia: Access Exercise 1](https://colab.research.google.com/github/savicario/addis-ababa-hydroserver-training-2026/blob/main/ethiopia/Exercise1/HydroServer_Exercise1_Ethiopia.ipynb)
 
 If you do not have a google account, you can access the exercises through Binder:
 
